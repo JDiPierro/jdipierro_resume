@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "Justin DiPierro"
+baseURL = "https://www.thatdipguy.com/"
+
+[Params]
+    description = "Software Development and Operations Engineer"
+    logo = "/img/justin.jpg"
+
+    github = "jdipierro"
+    twitter = "jdipierro"
+    email = "dipierroj@gmail.com"
+    linkedin = "jdipierro"
