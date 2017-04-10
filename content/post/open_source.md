@@ -6,18 +6,21 @@ class="post"
 
 +++
 
-#### [Syntaxic](https://chrome.google.com/webstore/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci?hl=en)
-
-This Chrome extension by [Andrew Matheny](https://github.com/ajmath) makes reading code so much nicer! I wanted a new feature in it so... [I added it!](https://github.com/ajmath/Syntaxtic/pull/62)
-
 #### Hashicorp's [Terraform](https://terraform.io)
 
-This contribution was one of my first forays into the Go programming language. I [added importability](https://github.com/hashicorp/terraform/pull/13270) for some Google Cloud resources. 
+I [added importability](https://github.com/hashicorp/terraform/pull/13270) for some Google Cloud resources. 
 
+#### Vagrant GS Auth
+
+The [Vagrant S3 Auth](https://github.com/WhoopInc/vagrant-s3auth) plugin allows you to easily pull Vagrant boxes down from Amazon S3. When Conduce moved from AWS to Google Cloud we needed a similar plugin for Google Storage. It didn't exist.. so [I created it](https://github.com/JDiPierro/vagrant-gsauth).  
+
+#### [Syntaxic](https://chrome.google.com/webstore/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci?hl=en)
+
+This Chrome extension by [Andrew Matheny](https://github.com/ajmath) adds syntax highlighting when viewing code files in your browser. I wanted a new feature in it so... [I added it](https://github.com/ajmath/Syntaxtic/pull/62).
 
 #### [Gitlab](https://www.gitlab.com)
 
-I'm a huge fan of Gitlab's platform and have submitted a few small minor UI and backend enhancements. Check out my commits [here](http://contributors.gitlab.com/contributors/justin-dipierro/commits)
+I'm a huge fan of Gitlab's platform and have submitted a few small UI and backend enhancements. Check out my commits [here](http://contributors.gitlab.com/contributors/justin-dipierro/commits).
 
 #### [Swagger](http://swagger.io/) [Codegen](http://swagger.io/swagger-codegen/)
 
