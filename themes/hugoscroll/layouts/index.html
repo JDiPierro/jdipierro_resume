@@ -1,0 +1,59 @@
+{{ partial "header.html" . }}
+<body class="home-template">
+
+    <!-- The big featured header on the homepage, with the site logo and description -->
+    <header id="site-head" {{ if .Site.Params.cover }}style="background-image: url({{ .Site.Params.cover }})"{{ end }}>
+            <div id="site-head-content" class="inner">
+
+                {{ if .Site.Params.logo }} <a id="blog-logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Justin DiPierro" /></a>{{ end }}
+                <h1 class="blog-title">{{ .Site.Title}}</h1>
+                {{ if .Site.Params.description }}<h2 class="blog-description">{{ .Site.Params.description }}</h2> {{ else  }}
+                <h2 class="blog-description">Description</h2>
+                {{ end }}
+
+                <p class="social-links">
+                    {{ if .Site.Params.twitter }}
+                    <a href="http://twitter.com/{{ .Site.Params.twitter }}" title="Twitter"><span class="fa fa-tt fa-2x"></span></a>
+                    {{ end }}
+                    {{ if .Site.Params.bitbucket }}
+                    <a href="https://bitbucket.org/{{ .Site.Params.bitbucket }}" title="Bitbucket"><span class="fa fa-bitbucket fa-2x"></span></a>
+                    {{ end }}
+                    {{ if .Site.Params.github }}
+                    <a href="https://github.com/{{ .Site.Params.github }}" title="GitHub"><span class="fa fa-github fa-2x"></span></a>
+                    {{ end }}
+                    {{ if .Site.Params.flickr }}
+                    <a href="http://www.flickr.com/photos/{{ .Site.Params.flickr }}/" title="Flickr"><span class="fa fa-flickr fa-2x"></span></a>
+                    {{ end }}
+
+                    <a href="http://stackoverflow.com/users/755964/jdipierro" title="StackOverflow"><span class="fa fa-stack-overflow fa-2x"></span></a>
+
+                    {{ if .Site.Params.linkedin }}
+                    <a href="http://no.linkedin.com/in/{{ .Site.Params.linkedin }}/en" title="Linkedin"> <i class='fa fa-ll fa-2x'></i></a>
+                    {{ end }}
+                    {{ if .Site.Params.email }}
+                    <a href="mailto:{{ .Site.Params.email }}" title="Email {{ .Site.Params.email }}"> <i class='fa fa-envelope-o fa-2x'></i></a>
+                    {{ end }}
+                </p>
+
+                <i id='header-arrow' class="fa fa-angle-down"></i>
+            </div>
+
+    </header>
+
+    <main class="content" role="main">
+    <div class='fixed-nav'>
+    </div>
+        {{ range .Data.Pages.ByWeight }}
+                {{ if eq .Type  "post" }}
+                    {{ .Render "post"}}
+                {{ end }}
+        {{ end }}
+
+</main>
+    {{ partial "footer.html" .}}
+
+    {{ partial "script.html" .}}
+
+
+</body>
+</html>

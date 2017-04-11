@@ -1,0 +1,19 @@
+<div class='post-holder'>
+{{ if .Params.class }}
+<article class="{{ .Params.class }}">
+{{ else }}
+<article class="post">
+{{ end }}
+
+    <h1 class="post-title">{{ .Title }}</h1><br/>
+
+    <section class="post-content">
+    {{ .Content }}
+    </section>
+
+    <footer class="post-footer">
+
+    </footer>
+</article>
+</div>
+<div class='post-after'></div>
