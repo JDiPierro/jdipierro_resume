@@ -8,7 +8,7 @@ class="post"
 
 #### Languages
 
-I'm currently most proficient in **Python**, and **Ruby**. I have no problem jumping into **Java** and **Groovy**. **Javascript** doesn't (entirely) scare me, and **Typescript** helps me sleep at night. I can find my way around **Go**, **C++**, and have even dug through a **Scala** codebase to fix a bug. And just for keywords: I do in fact know **HTML** and **CSS** (including preprocessors). 
+I'm currently most proficient in **Python** and **Ruby** but I'd have no problem jumping back into **Java** or **Groovy**. **Javascript** doesn't (entirely) scare me, and **Typescript** helps me sleep at night. I can find my way around **Go**, **C++**, and have even dug through a **Scala** codebase to fix a bug. And just for keywords: I do in fact know **HTML** and **CSS** (including preprocessors). 
 
 #### Frameworks and Tools
 
