@@ -6,7 +6,7 @@ weight = 50
 
 type = "post"
 
-class="post last"
+class="post"
 
 +++
 
@@ -20,7 +20,7 @@ class="post last"
 #### [SUNY Adirondack](https://www.sunyacc.edu/)
 ##### 2010-2012
 
-While I didn't complete a degree I did finisha all of the classes in the Computer Science track with high marks.
+While I didn't complete a degree I did finish all of the classes in the Computer Science track with high marks.
 
 #### [The Center for Digital Imaging Arts at Boston University](https://en.wikipedia.org/wiki/Center_for_Digital_Imaging_Arts_at_Boston_University)
 ##### 2008-2009
