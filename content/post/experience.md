@@ -10,7 +10,9 @@ class="post"
 #### Site Reliability Engineer at [Conduce](https://www.conduce.com)
 ###### October 2016 to Present
 
-I work on a team of two responsible for designing and orchestrating the global deployment of our golang web application. 
+I work on a team of two responsible for designing and orchestrating the global deployment of our golang web application.
+ 
+After working in the stack for only a few months I took over full responsibility for the infrastructure, deployment, and day-to-day operation. 
 
 #### Software Engineer at [Agora Games](https://www.agoragames.com)
 ###### November 2014 to September 2016
