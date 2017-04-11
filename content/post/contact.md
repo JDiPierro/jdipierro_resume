@@ -10,6 +10,6 @@ class="post last"
 
 +++
 
-If you've got some work you need done end me an email to:
+If you've got some work you need done send me an email at:
 
 dipierroj at gmail dot com
