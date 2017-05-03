@@ -8,7 +8,7 @@ class="post"
 
 #### Hashicorp's [Terraform](https://terraform.io)
 
-I [added importability](https://github.com/hashicorp/terraform/pull/13270) for some Google Cloud resources. 
+I added the ability to import several Google Cloud resources. Check out my [closed pulled requests](https://github.com/hashicorp/terraform/pulls?q=is%3Apr+is%3Aclosed+author%3AJDiPierro). 
 
 #### Vagrant GS Auth
 
@@ -16,7 +16,7 @@ The [Vagrant S3 Auth](https://github.com/WhoopInc/vagrant-s3auth) plugin allows 
 
 #### [Syntaxic](https://chrome.google.com/webstore/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci?hl=en)
 
-This Chrome extension by [Andrew Matheny](https://github.com/ajmath) adds syntax highlighting when viewing code files in your browser. I wanted a new feature in it so... [I added it](https://github.com/ajmath/Syntaxtic/pull/62).
+This Chrome extension by [Andrew Matheny](https://github.com/ajmath) adds syntax highlighting when viewing code files in your browser. I wanted a new feature in it so [I added it](https://github.com/ajmath/Syntaxtic/pull/62).
 
 #### [Gitlab](https://www.gitlab.com)
 
