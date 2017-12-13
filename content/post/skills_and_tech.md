@@ -22,4 +22,6 @@ I favor **Debian** based distros of Linux and have deployed to **AWS** and **Goo
 
 With **Postgres**, **Cassandra**, and **MongoDB** experience under my belt I can help you scale out your database with or without **SQL** (The latter being **NoSQL** for you buzzword fans).
 
+I've fallen in love with **Docker** and have deployed to **Amazon ECS**.
+
 If you've got a problem, Yo I'll solve it!

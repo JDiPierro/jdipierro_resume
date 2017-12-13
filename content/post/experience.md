@@ -7,8 +7,13 @@ class="post"
 +++
 
 
+#### Senior Software Engineer at [Mad Glory](https://www.madglory.com)
+###### June 2017 to Present
+
+  - Doing awesome things with awesome people
+
 #### Site Reliability Engineer at [Conduce](https://www.conduce.com)
-###### October 2016 to Present
+###### October 2016 to June 2017
 
   - Utilized terraform modules to standardize environment definitions
   - Implemented gitflow style automated deployment using Jenkins Scripted Pipeline
