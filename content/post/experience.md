@@ -6,11 +6,18 @@ class="post"
 
 +++
 
+#### Senior Software Engineer at [PUBG Mad Glory](https://www.pubg.com)
+###### March 2018 to Present
+
+  - Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams
+  - Managed production Kubernetes clusters
+  - Built an automated deployment pipeline from Gitlab to Kubernetes utilizing Helm 
+
 
 #### Senior Software Engineer at [Mad Glory](https://www.madglory.com)
-###### June 2017 to Present
+###### June 2017 to March 2018
 
-  - Doing awesome things with awesome people
+  - Worked with Bethesda Softworks providing expertise in backend engineering and deployment automation
 
 #### Site Reliability Engineer at [Conduce](https://www.conduce.com)
 ###### October 2016 to June 2017
