@@ -11,7 +11,7 @@ class="post"
 
   - Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams
   - Managed production Kubernetes clusters
-  - Built an automated deployment pipeline from Gitlab to Kubernetes utilizing Helm 
+  - Built an automated deployment pipeline from Gitlab to Kubernetes utilizing Helm
 
 
 #### Senior Software Engineer at [Mad Glory](https://www.madglory.com)
