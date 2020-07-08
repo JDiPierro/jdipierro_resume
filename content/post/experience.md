@@ -10,7 +10,8 @@ class="post"
 ###### March 2018 to Present
 
   - Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams
-  - Managed production Kubernetes clusters
+  - Lead the push to start a [VDP and bug bounty program on HackerOne](https://hackerone.com/pubg) and was the main point-of-contact with security researchers.
+  - Architected an Identity Management system to allow users to link identities on third party platforms with their PUBG account to earn rewards.
   - Built an automated deployment pipeline from Gitlab to Kubernetes utilizing Helm
 
 
@@ -19,14 +20,14 @@ class="post"
 
   - Worked with Bethesda Softworks providing expertise in backend engineering and deployment automation
 
-#### Site Reliability Engineer at [Conduce](https://www.conduce.com)
+#### Site Reliability Engineer at Conduce (defunct)
 ###### October 2016 to June 2017
 
   - Utilized terraform modules to standardize environment definitions
   - Implemented gitflow style automated deployment using Jenkins Scripted Pipeline
   - Rebuilt infrastructure to reduce costs by 1/3rd while maintaining high availability
 
-#### Software Engineer at [Agora Games](https://www.agoragames.com)
+#### Software Engineer at Agora Games (Now [WBGames NY](https://www.wbgamesny.com/))
 ###### November 2014 to September 2016
 
   - Developed microservices for videogames using Python, Java, and Typescript

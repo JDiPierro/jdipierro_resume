@@ -6,6 +6,10 @@ class="post"
 
 +++
 
+#### WSL - [Golang Whitespace Linter](https://github.com/bombsimon/wsl)
+
+This linter enforces that you have whitespace separating different types of code to increase readability. I wanted the ability to also enforce the opposite: Error checks should be cuddled with the line that assigned the error. I added that ability and helped make the linter's code cleaner. Check out [my closed PRs](https://github.com/bombsimon/wsl/pulls?q=is%3Apr+is%3Aclosed+author%3Ajdipierro)
+
 #### Hashicorp's [Terraform](https://terraform.io)
 
 I added the ability to import several Google Cloud resources. Check out my [closed pulled requests](https://github.com/hashicorp/terraform/pulls?q=is%3Apr+is%3Aclosed+author%3AJDiPierro). 
