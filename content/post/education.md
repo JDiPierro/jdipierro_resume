@@ -6,7 +6,7 @@ weight = 50
 
 type = "post"
 
-class="post"
+class="post edu"
 
 +++
 

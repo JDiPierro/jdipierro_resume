@@ -13,3 +13,12 @@ div.column.past-xp {
 .skills-and-tech h3 {
   padding-top: 25px;
 }
+
+.open-source h4 {
+  padding-top: 15px;
+}
+
+.edu h2,
+.edu h4 {
+  padding-top: 15px;
+}

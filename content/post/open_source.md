@@ -2,7 +2,7 @@
 title = "Open Source"
 weight = 40
 type = "post"
-class="post"
+class="post open-source"
 
 +++
 
