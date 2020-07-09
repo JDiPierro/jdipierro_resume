@@ -2,7 +2,7 @@
 title = "Experience"
 weight = 20
 type = "post"
-class="post"
+class="post exp"
 
 +++
 
