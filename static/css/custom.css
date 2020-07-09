@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+div.column.past-xp {
+  color: #999999;
+}
+
+.skills-and-tech h3 {
+  padding-top: 25px;
+}
