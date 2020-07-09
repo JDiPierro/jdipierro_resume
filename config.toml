@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Justin DiPierro"
-baseURL = "https://jdipierro.github.io/"
+baseURL = "https://thatdipguy.com"
 
 [Params]
     description = "Software Development and Operations Engineer"
