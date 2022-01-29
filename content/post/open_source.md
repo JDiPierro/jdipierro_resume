@@ -10,13 +10,13 @@ class="post open-source"
 
 This linter enforces that you have whitespace separating different types of code to increase readability. I wanted the ability to also enforce the opposite: Error checks should be cuddled with the line that assigned the error. I added that ability and helped make the linter's code cleaner. Check out [my closed PRs](https://github.com/bombsimon/wsl/pulls?q=is%3Apr+is%3Aclosed+author%3Ajdipierro)
 
+#### [Planefence](https://github.com/kx1t/docker-planefence)
+
+I'm an aviation enthusiast and I have a RaspberryPi with an antenna that picks up messages from aircraft flying overhead. This open source project reads that data and sends tweets when it detects interesting aircraft. I expanded it to also send messages to Discord. Check out [my closed PRs](https://github.com/kx1t/docker-planefence/pulls?q=is%3Apr+author%3Ajdipierro)
+
 #### Hashicorp's [Terraform](https://terraform.io)
 
 I added the ability to import several Google Cloud resources. Check out my [closed pulled requests](https://github.com/hashicorp/terraform/pulls?q=is%3Apr+is%3Aclosed+author%3AJDiPierro). 
-
-#### [Planefence](https://github.com/kx1t/docker-planefence)
-
-I'm an aviation enthusiast and I have a RaspberryPi with an antenna that picks up messages from aircraft flying overhead. This open source project reads that data and sends tweets when it detects interesting aircraft. I expanded it to also send messages to Discord. Check out [my closed PRs](https://github.com/kx1t/docker-planefence/pulls?q=is%3Apr+is%3Aclosed+author%3Ajdipierro)
 
 #### Vagrant GS Auth
 
